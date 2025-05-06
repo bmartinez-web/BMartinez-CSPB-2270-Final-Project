@@ -36,7 +36,6 @@ This project uses a **Bloom Filter**, a probabilistic data structure optimized f
 
 ## 📦 Project Structure
 
-.
 ├── main.cpp # Entry point
 
 ├── bloom_filter.h/.cpp # Bloom Filter implementation
@@ -49,7 +48,7 @@ This project uses a **Bloom Filter**, a probabilistic data structure optimized f
 
 ├── topology.png # Rendered image
 
-└── README.md # This file
+├── README.md # This file
 
 ---
 
